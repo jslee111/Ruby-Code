@@ -1,2 +1,2 @@
-Ruby-Course-Chapter
+Ruby codes
 ===================
